@@ -1,0 +1,238 @@
+Neato LEGO Distro Release 1.7.0-2933_10060147_cfae4f98 Neato-Robot ttymxc1
+
+Neato-Robot login: NOTICE:  BL31: v2.2(release):rel_imx_5.4.47_2.2.0-0-gc949a888e-dirty
+NOTICE:  BL31: Built : 08:42:51, Nov  3 2021
+
+Welcome to NXP i.MX Release Distro 5.4-zeus (zeus)!
+
+[  OK  ] Started Dispatch Password …ts to Console Directory Watch.
+[  OK  ] Reached target Paths.
+[  OK  ] Reached target Slices.
+[  OK  ] Reached target Swap.
+[  OK  ] Listening on Process Core Dump Socket.
+[  OK  ] Listening on initctl Compatibility Named Pipe.
+[  OK  ] Listening on Journal Socket (/dev/log).
+[  OK  ] Listening on Journal Socket.
+[  OK  ] Listening on Network Service Netlink Socket.
+[  OK  ] Listening on udev Control Socket.
+[  OK  ] Listening on udev Kernel Socket.
+         Mounting Huge Pages File System...
+         Mounting POSIX Message Queue File System...
+         Mounting Kernel Debug File System...
+         Mounting Temporary Directory (/tmp)...
+         Mounting /var/volatile...
+         Starting Journal Service...
+         Mounting Kernel Configuration File System...
+         Starting Apply Kernel Variables...
+         Starting Create Static Device Nodes in /dev...
+         Starting udev Coldplug all Devices...
+         Starting Unlock encrypted root filesystem...
+[  OK  ] Mounted Huge Pages File System.
+[  OK  ] Mounted POSIX Message Queue File System.
+[  OK  ] Mounted Kernel Debug File System.
+[  OK  ] Mounted Temporary Directory (/tmp).
+[  OK  ] Started Journal Service.
+[  OK  ] Mounted /var/volatile.
+[  OK  ] Mounted Kernel Configuration File System.
+[  OK  ] Started Apply Kernel Variables.
+[  OK  ] Started Create Static Device Nodes in /dev.
+         Starting udev Kernel Device Manager...
+         Starting Load/Save Random Seed...
+[  OK  ] Started udev Kernel Device Manager.
+[  OK  ] Started Unlock encrypted root filesystem.
+[  OK  ] Reached target Initrd Root Device.
+[  OK  ] Found device /dev/mapper/encrypted.
+         Mounting Mount encrypted root filesystem...
+[  OK  ] Started Load/Save Random Seed.
+[  OK  ] Mounted Mount encrypted root filesystem.
+[  OK  ] Reached target Initrd Root File System.
+[  OK  ] Reached target Local File Systems.
+         Starting Reload Configuration from the Real Root...
+         Starting Create Volatile Files and Directories...
+[  OK  ] Started udev Coldplug all Devices.
+[  OK  ] Started Create Volatile Files and Directories.
+         Starting Run pending postinsts...
+         Starting Network Time Synchronization...
+         Starting Update UTMP about System Boot/Shutdown...
+[  OK  ] Started Update UTMP about System Boot/Shutdown.
+[  OK  ] Started Reload Configuration from the Real Root.
+[  OK  ] Started Run pending postinsts.
+[  OK  ] Reached target Initrd File Systems.
+[  OK  ] Started Network Time Synchronization.
+[  OK  ] Reached target System Initialization.
+[  OK  ] Started Daily Cleanup of Temporary Directories.
+[  OK  ] Reached target System Time Set.
+[  OK  ] Reached target System Time Synchronized.
+[  OK  ] Reached target Timers.
+[  OK  ] Listening on D-Bus System Message Bus Socket.
+[  OK  ] Reached target Sockets.
+[  OK  ] Reached target Basic System.
+[  OK  ] Reached target Initrd Default Target.
+         Starting Cleaning Up and Shutting Down Daemons...
+[  OK  ] Started D-Bus System Message Bus.
+[  OK  ] Started Cleaning Up and Shutting Down Daemons.
+[  OK  ] Stopped target Initrd Default Target.
+[  OK  ] Stopped target Initrd Root Device.
+[  OK  ] Stopped target System Time Synchronized.
+[  OK  ] Stopped target System Time Set.
+[  OK  ] Stopped target Timers.
+[  OK  ] Stopped Daily Cleanup of Temporary Directories.
+[  OK  ] Closed Process Core Dump Socket.
+         Stopping D-Bus System Message Bus...
+         Stopping Load/Save Random Seed...
+[  OK  ] Stopped D-Bus System Message Bus.
+[  OK  ] Stopped target Basic System.
+[  OK  ] Stopped target Paths.
+[  OK  ] Stopped Dispatch Password …ts to Console Directory Watch.
+[  OK  ] Stopped target Slices.
+[  OK  ] Stopped target Sockets.
+[  OK  ] Closed D-Bus System Message Bus Socket.
+[  OK  ] Stopped target System Initialization.
+[  OK  ] Stopped target Swap.
+[  OK  ] Closed initctl Compatibility Named Pipe.
+[  OK  ] Closed Network Service Netlink Socket.
+[  OK  ] Stopped Apply Kernel Variables.
+         Stopping Network Time Synchronization...
+[  OK  ] Stopped udev Coldplug all Devices.
+         Stopping udev Kernel Device Manager...
+         Stopping Update UTMP about System Boot/Shutdown...
+[  OK  ] Stopped Network Time Synchronization.
+[  OK  ] Stopped Load/Save Random Seed.
+[  OK  ] Stopped udev Kernel Device Manager.
+[  OK  ] Stopped Update UTMP about System Boot/Shutdown.
+[  OK  ] Closed udev Control Socket.
+[  OK  ] Closed udev Kernel Socket.
+         Starting Cleanup udevd DB...
+[  OK  ] Stopped Create Static Device Nodes in /dev.
+[  OK  ] Stopped Create Volatile Files and Directories.
+[  OK  ] Stopped target Local File Systems.
+[  OK  ] Started Cleanup udevd DB.
+[  OK  ] Reached target Switch Root.
+         Starting Switch Root...
+
+Welcome to NXP i.MX Release Distro 5.4-zeus (zeus)!
+
+[  OK  ] Stopped Switch Root.
+[  OK  ] Created slice system-getty.slice.
+[  OK  ] Created slice system-serial\x2dgetty.slice.
+[  OK  ] Created slice system-systemd\x2dfsck.slice.
+[  OK  ] Created slice system-wpa_supplicant.slice.
+[  OK  ] Created slice User and Session Slice.
+[  OK  ] Started Dispatch Password …ts to Console Directory Watch.
+[  OK  ] Started Forward Password R…uests to Wall Directory Watch.
+[  OK  ] Stopped target Switch Root.
+[  OK  ] Stopped target Initrd File Systems.
+[  OK  ] Stopped target Initrd Root File System.
+[  OK  ] Reached target Paths.
+[  OK  ] Reached target Remote File Systems.
+[  OK  ] Reached target Slices.
+[  OK  ] Reached target Swap.
+[  OK  ] Listening on Process Core Dump Socket.
+[  OK  ] Listening on initctl Compatibility Named Pipe.
+[  OK  ] Listening on Network Service Netlink Socket.
+[  OK  ] Listening on udev Control Socket.
+[  OK  ] Listening on udev Kernel Socket.
+         Starting Create list of st…odes for the current kernel...
+[  OK  ] Stopped Journal Service.
+         Starting Journal Service...
+         Starting Load Kernel Modules...
+         Starting Remount Root and Kernel File Systems...
+         Starting udev Coldplug all Devices...
+[  OK  ] Started Create list of sta… nodes for the current kernel.
+[  OK  ] Started Journal Service.
+[  OK  ] Started Remount Root and Kernel File Systems.
+         Starting Load/Save Random Seed...
+         Starting Create Static Device Nodes in /dev...
+[  OK  ] Started Load/Save Random Seed.
+[  OK  ] Started Create Static Device Nodes in /dev.
+[  OK  ] Reached target Local File Systems (Pre).
+         Starting File System Check on /dev/mmcblk2p5...
+         Starting udev Kernel Device Manager...
+[  OK  ] Started udev Kernel Device Manager.
+[  OK  ] Started File System Check on /dev/mmcblk2p5.
+         Mounting /user...
+[  OK  ] Mounted /user.
+         Mounting /var/log...
+[  OK  ] Mounted /var/log.
+[  OK  ] Reached target Local File Systems.
+         Starting Flush Journal to Persistent Storage...
+[  OK  ] Started Flush Journal to Persistent Storage.
+         Starting Create Volatile Files and Directories...
+[   13.236719] 000: hifDeviceInserted: Dumping clocks (50000000,400000000)
+[  OK  ] Started Create Volatile Files and Directories.
+         Starting Network Time Synchronization...
+         Starting Update UTMP about System Boot/Shutdown...
+[   13.480349] 000: ol_download_firmware: chip_id:0x5020001 board_id:0x0
+[   13.503947] 000: __ol_transfer_bin_file: Failed to get :-22
+[  OK  ] Started Update UTMP about System Boot/Shutdown.
+[  OK  ] Started udev Coldplug all Devices.
+[  OK  ] Started Network Time Synchronization.
+[  OK  ] Reached target System Time Set.
+[  OK  ] Reached target System Time Synchronized.
+[   14.421068] 000: ENTER sme_set_btc_coex_dutycycle = 30
+[   14.421072] 000: ENTER sme_set_btc_coex_dutycycle =30
+[   14.574393] 000: debugfs: Directory '30050000.sai' with parent 'tfa9896-audio' already present!
+[  OK  ] Started Load Kernel Modules.
+         Starting Apply Kernel Variables...
+[  OK  ] Started Apply Kernel Variables.
+[  OK  ] Reached target System Initialization.
+[  OK  ] Started Daily Cleanup of Temporary Directories.
+[  OK  ] Reached target Timers.
+[  OK  ] Listening on D-Bus System Message Bus Socket.
+[  OK  ] Reached target Sockets.
+[  OK  ] Reached target Basic System.
+[  OK  ] Started Auto-update Service.
+         Starting Bluetooth service...
+[  OK  ] Started D-Bus System Message Bus.
+         Starting Flush file cache...
+         Starting Play 1 second silence file...
+[  OK  ] Started User Space Regulatory Firmware Loading.
+[  OK  ] Started User Space SDMA Firmware Loading.
+         Starting Login Service...
+         Starting Network Service...
+[  OK  ] Started TEE Supplicant.
+         Starting SW upgrade service...
+[  OK  ] Started Flush file cache.
+[  OK  ] Started Play 1 second silence file.
+[  OK  ] Started Network Service.
+         Starting Network Name Resolution...
+[  OK  ] Started SW upgrade service.
+[  OK  ] Started MCU SPI Communication Service.
+         Starting Database Files Setup Service...
+         Starting Setup dev permission...
+         Starting Set host name...
+[  OK  ] Started Login Service.
+[  OK  ] Started Network Name Resolution.
+[  OK  ] Reached target Host and Network Name Lookups.
+[  OK  ] Started Set host name.
+[  OK  ] Started Bluetooth service.
+[  OK  ] Started Check and fix Bluetooth function periodically.
+         Mounting Temporary Directory (/tmp)...
+[  OK  ] Mounted Temporary Directory (/tmp).
+         Starting Hostname Service...
+[  OK  ] Started Hostname Service.
+[  OK  ] Started Setup dev permission.
+[  OK  ] Started LDS Driver Service.
+[  OK  ] Listening on Load/Save RF …itch Status /dev/rfkill Watch.
+         Starting Load/Save RF Kill Switch Status...
+         Starting Save/Restore Sound Card State...
+[  OK  ] Reached target Bluetooth.
+[  OK  ] Started Load/Save RF Kill Switch Status.
+[   28.200873] 000: tfa98xx_set_volume(): tfa98xx_set_volume
+[  OK  ] Started Save/Restore Sound Card State.
+[  OK  ] Reached target Sound Card.
+[  OK  ] Found device /sys/subsystem/net/devices/wlan0.
+[  OK  ] Started WPA supplicant dae… (interface-specific version).
+[  OK  ] Reached target Network.
+         Starting Permit User Sessions...
+[   28.999657] 000: tfa98xx_set_volume(): tfa98xx_set_volume
+[  OK  ] Started Permit User Sessions.
+[  OK  ] Started Serial Getty on ttymxc1.
+         Starting USB gadgets...
+[  OK  ] Started Database Files Setup Service.
+         Starting Python User Event Scheduler Service...
+         Starting Python UI Manager Service...
+
+Neato LEGO Distro Release 1.7.0-2933_10060147_cfae4f98 Neato-Robot ttymxc1
+
+Neato-Robot login:
